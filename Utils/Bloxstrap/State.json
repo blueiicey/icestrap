@@ -1,0 +1,8 @@
+{
+  "LastEnrolledChannel": "",
+  "VersionGuid": "version-1088f3c8e4a44cc7",
+  "ModManifest": [
+    "ClientSettings\\ClientAppSettings.json",
+    "content\\sounds\\ouch.ogg"
+  ]
+}

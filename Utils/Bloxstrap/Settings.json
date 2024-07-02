@@ -1,0 +1,32 @@
+{
+  "BootstrapperStyle": 4,
+  "BootstrapperIcon": 8,
+  "BootstrapperTitle": "IceStrap",
+  "BootstrapperIconCustomLocation": "C:\\Program Files\\IceStrap\\IceStrap.ico",
+  "Theme": 2,
+  "CheckForUpdates": false,
+  "CreateDesktopIcon": false,
+  "MultiInstanceLaunching": true,
+  "OhHeyYouFoundMe": false,
+  "Channel": "LIVE",
+  "ChannelChangeMode": 2,
+  "EnableActivityTracking": true,
+  "UseDiscordRichPresence": false,
+  "HideRPCButtons": true,
+  "ShowServerDetails": true,
+  "CustomIntegrations": [
+    {
+      "Name": "IceStrap",
+      "Location": "C:\\Program Files\\IceStrap\\icestrap.bat",
+      "LaunchArgs": "",
+      "AutoClose": true
+    }
+  ],
+  "UseOldDeathSound": true,
+  "UseOldCharacterSounds": false,
+  "UseDisableAppPatch": false,
+  "UseOldAvatarBackground": false,
+  "CursorType": 0,
+  "EmojiType": 0,
+  "DisableFullscreenOptimizations": true
+}
